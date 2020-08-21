@@ -1,3 +1,3 @@
 # Hangman
-A simple python code for beginners.
+A simple Hangman python code for beginners.
 **************************************
